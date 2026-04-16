@@ -4,13 +4,9 @@
 
 ## 🛑 IMPORTANT: Read Before Downloading
 
-Welcome to the **Hardware Identification (HWID) Privacy Guide**! Maintained by **[aldhaheriza5](https://github.com/aldhaheriza5)**, this repository provides specific privacy tools and guides to test, spoof, or mask your hardware identifiers from invasive checks. 
+Disclaimer: This guide is for privacy research, hardware fingerprint testing, and education. It is not for violating any Terms of Service. What this guide is: A deep, technical hardware privacy guide about spoofing/changing hardware identifiers to make a machine as unidentifiable and untraceable as possible under advanced fingerprinting.
 
-**How to download and run the tools correctly:**
-If you download `.exe` tools improperly, Windows will say they are missing or broken. Please follow these steps:
-1. **Never "Save Link As..."**: If you right-click a `.exe` file here and select *"Save Link As..."*, you will download a broken webpage instead of the executable file. 
-2. **Download the full ZIP (Recommended)**: Click the green **"<> Code"** button at the top of this repository and select **"Download ZIP"**.
-3. **If Windows Defender Blocks a Tool**: Because these files interact deeply with your hardware configuration to check or spoof serial numbers, antivirus software often flags them as "HackTools". You may need to run them as Administrator, or temporarily add their folder to your Windows Defender Exclusions.
+
 
 ---
 
